@@ -1,4 +1,4 @@
-# 8-Puzzle-Solver
+# 8 Puzzle Solver
 
 <p align="center">
   <img src="https://github.com/MuhannadFahmy/8-Puzzle-Solver/assets/20281531/b616a935-c5cd-435f-b6ad-15816f26e829" width="70%">
